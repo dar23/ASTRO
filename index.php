@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="sky.css">
     <link rel="stylesheet" type="text/css" href="gallery.css">
+    <link rel="stylesheet" type="text/css" href="post.css">
     <script src="sky.js"></script> 
     <title>Document</title>
 </head>
@@ -17,7 +18,9 @@
 
 
 <div class='sky'>
-        <div class='stars'></div>              
+        <div class='stars'></div>      
+
+        
 </div>
 
 
@@ -32,11 +35,72 @@
             <h1>Kolumna 2</h1>
             <p>Tutaj znajduje się zawartość kolumny 2.</p>
         </div>
-        <div class="column">
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <div class="column">
             
             <h1>Kolumna 3</h1>
             <p>Tutaj znajduje się zawartość kolumny 3.</p>
-        </div>
+
+
+            <div class="post">
+               
+            
+                <div class="photo"></div>
+                <div class="title"></div>
+                <div class="description"></div>
+
+
+
+
+            </div>
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
    
 
